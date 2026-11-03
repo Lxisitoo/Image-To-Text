@@ -14,3 +14,11 @@ Una aplicación de escritorio ligera construida con Python y Tkinter que permite
 Abre tu terminal y ejecuta:
 ```bash
 pip install pytesseract pillow
+
+
+## 🚀 ¿Cómo se usa?
+
+1. **Inicia la aplicación:** Ejecuta el archivo principal desde tu terminal escribiendo `python interfaz.py`.
+2. **Sube tu foto:** Haz clic en el botón verde "Subir Imagen" y selecciona cualquier imagen (PNG, JPG) que contenga texto.
+3. **Espera un segundo:** El programa procesará la imagen automáticamente sin que se congele la ventana.
+4. **Copia tu texto:** El texto extraído aparecerá en la caja inferior. ¡Selecciona, copia y úsalo donde necesites!
