@@ -16,7 +16,7 @@ Abre tu terminal y ejecuta:
 pip install pytesseract pillow
 
 
-## 🚀 ¿Cómo se usa?
+##  ¿Cómo se usa?
 
 1. **Inicia la aplicación:** Ejecuta el archivo principal desde tu terminal escribiendo `python interfaz.py`.
 2. **Sube tu foto:** Haz clic en el botón verde "Subir Imagen" y selecciona cualquier imagen (PNG, JPG) que contenga texto.
